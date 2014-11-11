@@ -1,6 +1,6 @@
 Package.describe({
   name: "aldeed:clock",
-  version: "1.0.0",
+  version: "1.0.1",
   summary: "An accurate reactive clock",
   git: "https://github.com/aldeed/meteor-reactive-clock.git"
 });
